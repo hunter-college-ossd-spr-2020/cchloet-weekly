@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (https://www.openstreetmap.org/user/Cchloet/history)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I edited details on this open source map   |
+|  3   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I edited details on this open source map   |
 |     |     |     |      |
 |     |     |     |      |
